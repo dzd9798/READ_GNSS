@@ -15,3 +15,5 @@ Other GNSS file type will be added in the near future.
 Using loadRINEXO for reading observation file.
 
 Using loadRINEXN for reading navigation file.
+
+Using loadIONEX for reading TEC map file.
