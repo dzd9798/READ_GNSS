@@ -204,5 +204,5 @@ while ~feof(fid)
 end
 
 rinexNav.navData = navData;
-
+fclose(fid);
 end

@@ -211,4 +211,5 @@ end
 
 ionoData.mapData = mapData;
 close(waitBar);
+fclose(fid);
 end

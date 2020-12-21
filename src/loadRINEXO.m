@@ -162,4 +162,5 @@ end
 rinexObs.obsData = obsData;
 
 close(waitBar);
+fclose(fid);
 end
